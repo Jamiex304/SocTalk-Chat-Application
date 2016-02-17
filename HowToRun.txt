@@ -1,0 +1,29 @@
+To Run the Project:
+
+- Import the SocTalk_2.0.zip using netbeans import system 
+
+- Allow the file to import fully 
+
+- Once the Project is import you should have two folders 
+  - SocTalk (WebApplcation)
+  - SocTalk Folder (Parent Folder for SocTalk)
+
+- If SocTalk (WebApplcation) does not appear, Select SokTalk Folder then inside that select Moudles and the SocTalk (WebApplcation)
+should be there 
+
+- After you have SocTalk in netbeans select the web applcation and build it using netbeans to import all the files needed 
+
+- SocTalk is designed to run on your Localhost:8080 so this port must be open
+
+- After the project is finished building, Select Run Project, The Select Deployment Server popup will open, Here you must select Glashfish from the dropdown list
+
+- After that the project will run and open on your defualt Web Browser 
+
+Setting up the Database 
+
+- In this upload the is a sql file for the table the database must be called socusers 
+
+- Also you must match the address in the JSP parts to your sql port in ours it is 8081  
+
+
+
