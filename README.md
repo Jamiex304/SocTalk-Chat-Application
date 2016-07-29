@@ -2,7 +2,7 @@ Chat Appilcation
 
 Built using:
 
-- JAVA
+- Java
 - HTML
 - Javascript
 - JSP
